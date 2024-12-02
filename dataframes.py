@@ -19,11 +19,11 @@ print(cricket)
 # Pandas use the loc attribute to return one or more specified row(s)
 # Return row 0:
 
-# print(cricket.loc[0]) ##refer to the row index:
+print(cricket.loc[0]) ##refer to the row index:
 
 # Return row 0 and 1:
 
-# print(cricket.loc[0,1]) #use a list of indexes
+print(cricket.loc[0,1]) #use a list of indexes
 
 
 # Named Indexes
